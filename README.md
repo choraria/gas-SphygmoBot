@@ -1,6 +1,8 @@
 # SphygmoBot
 A human "Heartbeat" checker hosted on Telegram and powered by Google Apps Script.
 
+<a href="https://www.producthunt.com/posts/sphygmobot?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-sphygmobot" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=172472&theme=dark" alt="SphygmoBot - A human Heartbeat checker hosted on Telegram. | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
+
 # Setup
 1. Copy paste all the code from this repo to a new apps script
 2. Create a new Google Spreadsheet and **DO NOT** change anything else there
