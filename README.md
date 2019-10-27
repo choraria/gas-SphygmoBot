@@ -12,7 +12,9 @@ A human "Heartbeat" checker hosted on Telegram and powered by Google Apps Script
 5. Run the `setup` function from `Setup.gs` (it is important that you deploy the script first and then the setup function)
 
 # Live Demo
-You can access [SphygmoBot on Telegram](https://t.me/SphygmoBot) & watch a setup video [here](https://www.youtube.com/watch?v=UAYKd4kpOzM)
+You can access [SphygmoBot on Telegram](https://t.me/SphygmoBot) & watch a setup video here -
+
+[![Watch the video](https://img.youtube.com/vi/UAYKd4kpOzM/maxresdefault.jpg)](https://youtu.be/UAYKd4kpOzM)
 
 # Disclaimer
 1. Please consider this is as a Proof of Concept (POC) and not a full-fledged application to utilise in everyday life!
