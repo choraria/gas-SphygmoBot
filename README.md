@@ -1,5 +1,5 @@
 # SphygmoBot
-A human "Heartbeat" checker hosted on Telegram and powered by Google Apps Script.
+A human "Heartbeat" checker hosted on Telegram and powered by Google Apps Script. You can read all about it [here](https://script.gs/build-a-telegram-bot-using-apps-script/)
 
 <a href="https://www.producthunt.com/posts/sphygmobot?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-sphygmobot" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=172472&theme=dark" alt="SphygmoBot - A human Heartbeat checker hosted on Telegram. | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
 
