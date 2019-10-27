@@ -7,9 +7,10 @@ A human "Heartbeat" checker hosted on Telegram and powered by Google Apps Script
 1. Copy paste all the code from this repo to a new apps script
 2. Create a new Google Spreadsheet and **DO NOT** change anything else there
 3. Generate a Telegram Bot API token per [the instructions](https://core.telegram.org/bots#3-how-do-i-create-a-bot)
-3. Replace the Sheet ID and Telegram Bot API Token on `Code.gs`
-4. Deploy the script as a Web App
-5. Run the `setup` function from `Setup.gs` (it is important that you deploy the script first and then the setup function)
+4. Replace the Sheet ID and Telegram Bot API Token on `Code.gs`
+5. Deploy the script as a Web App
+6. Run the `setup` function from `Setup.gs` (it is important that you deploy the script first and then the setup function)
+   - Then run the `scheduler` function from `Setup.gs`
 
 # Live Demo
 You can access [SphygmoBot on Telegram](https://t.me/SphygmoBot) & watch a setup video here -
